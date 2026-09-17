@@ -1,0 +1,7 @@
+# Only the encrypted page is published. Everything else, including the model
+# that says what the meals actually are, stays on this machine.
+*
+!.gitignore
+!docs/
+!docs/index.html
+!README.md
